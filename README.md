@@ -1,4 +1,5 @@
 🎓 Professional Certifications Portfolio
+
 Welcome! This repository serves as a dedicated space for my professional certifications and continuous learning journey. My expertise bridges the gap between Traditional Data Analytics and the evolving world of Generative AI
 
 📈 Why This Matters
